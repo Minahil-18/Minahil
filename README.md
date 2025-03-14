@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 **About Me**
+## 👩‍💻 **About Me**
 - 🎓 Passionate about AI, game development, and problem-solving. 
 - 🖥️ **Tech Stack:** C++, Python, Firebase, Git, SQL   
 - 💡 Exploring **Firebase, AI models, and full-stack development**.  
@@ -20,7 +20,7 @@
 ## 🛠 **Tech Stack & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
