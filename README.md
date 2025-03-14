@@ -22,10 +22,3 @@
 ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)  
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" />
-</p>
-
----
