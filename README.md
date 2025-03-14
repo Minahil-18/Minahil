@@ -1,6 +1,10 @@
-<!-- Header with Typing Animation -->
+<!-- Static Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Minahil!;C++,+Python+Programmer;AI+Enthusiast;Always+learning+new+things!&center=true&color=FFA500&size=22">
+  <strong><span style="font-size: 26px;">⋆⭒˚｡⋆ Hey, I'm Minahil! 🎀 </span></strong>
+
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C++,+Python+Programmer;AI+Enthusiast;Game+Developer;Always+learning+new+things!&center=true&color=FF1493&size=22">
 </p>
 
 ---
@@ -21,6 +25,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
 </p>
-
----
-
