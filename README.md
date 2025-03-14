@@ -1,6 +1,6 @@
 <!-- Static Header with Typing Animation -->
 <p align="center">
-  <strong><span style="font-size: 60px;">⋆⭒˚｡⋆ Hey, I'm Minahil! 🎀 ⋆⭒˚｡⋆</span></strong>
+  <strong><h1>⋆⭒˚｡⋆ Hey, I'm Minahil! 🎀 ⋆⭒˚｡⋆</h1></strong>
 </p>
 
 <p align="center">
